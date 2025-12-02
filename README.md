@@ -13,8 +13,3 @@ A Python tool to analyze password strength using entropy, dictionary detection, 
 - Python, Regex, Cryptographic hashing (SHA-1 used for local breach hashing)
 - Security heuristics: entropy, wordlist checks, pattern detection
 
-## Ideas for extension
-- Integrate with HaveIBeenPwned Pwned Passwords API for real breach checks
-- Add a web UI (Flask/FastAPI + React)
-- Use zxcvbn for richer pattern detection and matching
-- Add a Dockerfile and GitHub Actions for CI (tests + linting)
