@@ -9,7 +9,3 @@ A Python tool to analyze password strength using entropy, dictionary detection, 
 - Brute-force time-to-crack estimate (configurable guesses per second)
 - CLI and JSON output for easy integration
 
-## Tech & Skills
-- Python, Regex, Cryptographic hashing (SHA-1 used for local breach hashing)
-- Security heuristics: entropy, wordlist checks, pattern detection
-
